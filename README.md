@@ -1,2 +1,3 @@
 # Hit-the-Balls
-A javascript based game.
+A javascript based desktop game.
+Work under process. 
